@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1,h2,h3{
+    margin: 0;
+}
+
+span{
+    position: relative;
+    top: 40%;
+    
+}
+
+.hero{
+    text-align: center;
+    background-image: url('https://static.pexels.com/photos/248515/pexels-photo-248515.png') ;
+    color: white;
+    height: 50vh;
+    width: 100%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    content: '';
+  
+}
+
+
+
+.secondSection{
+    background-color: khaki;
+    height: 30vh;
+    text-align: center;
+}
+
+.grid{
+    display: inline-grid;
+}
+.grid-container{
+    width: 10%%;
+    
+}
